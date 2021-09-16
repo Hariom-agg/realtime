@@ -1,0 +1,43 @@
+
+.heading
+{
+    font-size: large;
+    width: 100%;
+    margin: 0%;
+    box-shadow: 5px 5px 10px grey;
+    background-color: lightsalmon;
+    color: white;
+}
+
+.heading_div
+{
+    float: none;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    box-shadow: 10px 5px 10px black;
+    padding: 10px;
+}
+
+.para_object
+{
+    box-shadow: 5px 5px 5px 3px gray ;
+}
+
+.copy_right-footer
+{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    color: white;
+    background-color: grey;
+    line-height: 3;
+    width: 100%;
+}
+
+canvas{
+    border: 5px ridge black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px grey;
+    margin-top: 110px;
+  }
